@@ -1,1 +1,2 @@
 This is my FIRST session on GIT!!!!!!!
+This is my Second Session on Git Commit!!!!!!!!!1
