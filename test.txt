@@ -1,3 +1,7 @@
 This is my FIRST session on GIT!!!!!!!
+<<<<<<< HEAD
 This is my Second Session on Git Commit!!!!!!!!!1
 This is my second text Updation !!!!!!!!!!!
+=======
+this is my Second commit !!!!!!!!!
+>>>>>>> d05589a2ad9cd46de2286d205003bc0ead1942eb
